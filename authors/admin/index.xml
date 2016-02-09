@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Admin on Mogic Work</title>
+    <link>http://mogic.work/authors/admin/</link>
+    <description>Recent content in Admin on Mogic Work</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 09 Feb 2016 22:41:34 +0800</lastBuildDate>
+    <atom:link href="http://mogic.work/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>你好，世界</title>
+      <link>http://mogic.work/post/hello/</link>
+      <pubDate>Tue, 09 Feb 2016 22:41:34 +0800</pubDate>
+      
+      
+      <author>admin</author>
+      
+      
+      
+      
+      <category>历史的印记</category>
+      
+      
+      
+      
+      <category>Hello</category>
+      
+      
+      <guid>http://mogic.work/post/hello/</guid>
+      <description>&lt;p&gt;大家吼啊！&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
+
