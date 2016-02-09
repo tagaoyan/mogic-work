@@ -1,0 +1,10 @@
+.math-inline,
+.math-display {
+    color: blue;
+}
+
+.math-display {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
