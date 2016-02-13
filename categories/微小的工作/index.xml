@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Mogic Work</title>
-    <link>http://mogic.work/post/</link>
-    <description>Recent content in Posts on Mogic Work</description>
+    <title>微小的工作 on Mogic Work</title>
+    <link>http://mogic.work/categories/%E5%BE%AE%E5%B0%8F%E7%9A%84%E5%B7%A5%E4%BD%9C/</link>
+    <description>Recent content in 微小的工作 on Mogic Work</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 13 Feb 2016 00:17:58 +0800</lastBuildDate>
-    <atom:link href="http://mogic.work/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mogic.work/categories/%E5%BE%AE%E5%B0%8F%E7%9A%84%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Mogic Backup Service</title>
@@ -71,30 +71,6 @@
 &lt;li&gt;不暴力。是否暴力由本站判断。&lt;/li&gt;
 &lt;li&gt;作者希望公开发布。可以在投稿时注明不发布，本站会遵守该要求。&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>你好，世界</title>
-      <link>http://mogic.work/post/hello/</link>
-      <pubDate>Tue, 09 Feb 2016 22:41:34 +0800</pubDate>
-      
-      
-      <author>admin</author>
-      
-      
-      
-      
-      <category>历史的印记</category>
-      
-      
-      
-      
-      <category>Hello</category>
-      
-      
-      <guid>http://mogic.work/post/hello/</guid>
-      <description>&lt;p&gt;大家吼啊！&lt;/p&gt;
 </description>
     </item>
     

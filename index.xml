@@ -6,8 +6,73 @@
     <description>Recent content on Mogic Work</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 09 Feb 2016 22:41:34 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 13 Feb 2016 00:17:58 +0800</lastBuildDate>
     <atom:link href="http://mogic.work/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mogic Backup Service</title>
+      <link>http://mogic.work/post/start-mbs/</link>
+      <pubDate>Sat, 13 Feb 2016 00:17:58 +0800</pubDate>
+      
+      
+      <author>admin</author>
+      
+      
+      
+      
+      <category>微小的工作</category>
+      
+      
+      
+      
+      <category>备份</category>
+      
+      
+      <guid>http://mogic.work/post/start-mbs/</guid>
+      <description>
+
+&lt;p&gt;你是否有过辛辛苦苦写过长长的一片 mogic 文章却被管理员删除的经历？是否希望你的 mogic 流传后世，向他一样长久？好消息：本网站提供 mogic 备份服务！&lt;/p&gt;
+
+&lt;p&gt;投稿请发送至 &lt;a href=&#34;mailto:mbs@mogic.work&#34;&gt;mbs@mogic.work&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h2 id=&#34;关于署名:640fd363de8cde6e6d3392f0868258bf&#34;&gt;关于署名&lt;/h2&gt;
+
+&lt;p&gt;本网站有作者标识功能，将按照以下规则署名：&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;在投稿中明确提供署名信息，将使用该信息。
+
+&lt;ul&gt;
+&lt;li&gt;使用同一邮箱默认视为同一作者，署名信息会同步更新。&lt;/li&gt;
+&lt;li&gt;同一作者使用不同邮箱投稿，请注明原来的投稿邮箱。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;如果无法找到署名信息，将按照匿名处理。
+
+&lt;ul&gt;
+&lt;li&gt;匿名作者使用随机生成的名字，同一邮箱视为同一作者。&lt;/li&gt;
+&lt;li&gt;文章一经发表，无法改变匿名/署名状态。&lt;/li&gt;
+&lt;li&gt;同一邮箱可以同时署名与匿名投稿。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;关于文章格式:640fd363de8cde6e6d3392f0868258bf&#34;&gt;关于文章格式&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;文章格式不限，本站会进行编排以适应网络浏览。&lt;/li&gt;
+&lt;li&gt;本站会在不提前通知情况下修改影响阅读的错误。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;关于稿件筛选:640fd363de8cde6e6d3392f0868258bf&#34;&gt;关于稿件筛选&lt;/h2&gt;
+
+&lt;p&gt;稿件应满足以下要求才能发布&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;原创。坚决反对抄袭。&lt;/li&gt;
+&lt;li&gt;不暴力。是否暴力由本站判断。&lt;/li&gt;
+&lt;li&gt;作者希望公开发布。可以在投稿时注明不发布，本站会遵守该要求。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>你好，世界</title>
